@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task Organizer</string>
+    <string name="intro_message">Collaborate and Plan together with your Team across multiple devices with Task Organizer Application.</string>
+    <string name="intro_title">Let\'s Begin</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="sign_in_toolbar">SIGN IN</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="sign_up_toolbar">SIGN UP</string>
+    <string name="content_description">image</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in_message">Enter your email address and password to log in</string>
+    <string name="sign_up_message">Enter your username, email address and password to register in Task Organizer</string>
+    <string name="empty_boards_message">No boards available. \nStart by creating a new one!</string>
+    <string name="my_profile">My Profile</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="profile_update_btn">UPDATE</string>
+    <string name="hint_board">Board Name</string>
+    <string name="create_board_btn">CREATE</string>
+    <string name="add_task_list_tv">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_card_tv">Add Card</string>
+    <string name="please_wait_tv">Please Wait...</string>
+
+</resources>
